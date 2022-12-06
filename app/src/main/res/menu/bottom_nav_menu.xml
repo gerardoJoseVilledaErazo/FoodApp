@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/categoriesFragment"
+        android:icon="@drawable/ic_restaurant_menu"
+        android:title="Categories"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/ingrediantFragment"
+        android:icon="@drawable/ic_cookie"
+        android:title="Ingrediant"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/randomFragment"
+        android:icon="@drawable/ic_baseline_loop_24"
+        android:title="Random"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/areaFragment"
+        android:icon="@drawable/ic_location_on"
+        android:title="Area"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        android:visible="true" />
+</menu>

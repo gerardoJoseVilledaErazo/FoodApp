@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="recipe">foodImage</string>
+    <string name="instructionsText">Instructions</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="video">Video</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="search">Search...</string>
+</resources>
